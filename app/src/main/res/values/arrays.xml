@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sample_images">
+        <item>@drawable/interstellar1</item>
+        <item>@drawable/interstellar2</item>
+        <item>@drawable/interstellar3</item>
+        <item>@drawable/interstellar1</item>
+        <item>@drawable/interstellar2</item>
+        <item>@drawable/interstellar3</item>
+        <item>@drawable/interstellar1</item>
+        <item>@drawable/interstellar2</item>
+        <item>@drawable/interstellar3</item>
+        <item>@drawable/interstellar1</item>
+        <item>@drawable/interstellar2</item>
+        <item>@drawable/interstellar3</item>
+        <item>@drawable/interstellar1</item>
+        <item>@drawable/interstellar2</item>
+        <item>@drawable/interstellar3</item>
+        <item>@drawable/interstellar1</item>
+        <item>@drawable/interstellar2</item>
+        <item>@drawable/interstellar3</item>
+    </string-array>
+</resources>
